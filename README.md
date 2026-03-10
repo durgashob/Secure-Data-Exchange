@@ -97,3 +97,8 @@ received_example.txt
 This project is created for learning purposes to understand how encoding formats and secure protocols work together in modern networks to support secure data exchange.
 
 
+# Author 
+
+# LICENSE
+This project is under the MIT license. [LICENSE](https://github.com/durgashob/Secure-Data-Exchange/blob/main/LICENSE)
+
